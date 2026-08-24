@@ -18,4 +18,28 @@ var my_variable = "Camilo";/*Con la actualización de Java no es necesario espec
 Java infiere el tipo de dato*/
 var my_variable = "Andres";//Nuevo nombre en mi variable
 
-final string MY_CONSTANT = "Suarez"//Mi constante
+final string MY_CONSTANT = "Suarez";//Mi constante
+
+//Forma tradicional para declarar variables
+byte my_bite = 1;
+short my_short = 10;
+int my_int = 100;
+long my_long = 1000
+float my_float = 1.5;
+double my_double = 1.5712;
+boolean my_boolean = false;
+char my_char = 'C';
+string my_string = "Cadena de texto";
+
+//Forma moderna para declarar variables con actualización de Java
+var my_byte = 100;
+var my_short = 1000;
+var my_int = 10.000; 
+var my_long = 100.000;
+var my_float = 3.14;
+var my_double = 3.1416;
+var my_boolean = true;
+var my_char = 'A';
+var my_string "Nueva cadena de texto";
+
+System.out.println("¡Hola, Java!");
