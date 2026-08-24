@@ -15,12 +15,12 @@ de manera oficial en Java
 */
 
 public class camilo-suarez0{
-  public static void main (string[] args){
+  public static void main (String[] args){
     var my_variable = "Camilo";/*Con la actualización de Java no es necesario especificar el tipo de dato, solo colocando 'var' y el valor, 
     Java infiere el tipo de dato*/
     var my_variable = "Andres";//Nuevo nombre en mi variable
 
-    final string MY_CONSTANT = "Suarez";//Mi constante
+    final String MY_CONSTANT = "Suarez";//Mi constante
 
     //Forma tradicional para declarar variables
     byte my_bite = 1;
@@ -31,7 +31,7 @@ public class camilo-suarez0{
     double my_double = 1.5712;
     boolean my_boolean = false;
     char my_char = 'C';
-    string my_string = "Cadena de texto";
+    String my_string = "Cadena de texto";
 
     //Forma moderna para declarar variables con actualización de Java
     var my_byte = 100;
