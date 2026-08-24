@@ -14,7 +14,7 @@ Asi es un comentario
 de manera oficial en Java
 */
 
-public class camilo_suarez0{
+public class camilo-suarez0{
   public static void main (string[] args){
     var my_variable = "Camilo";/*Con la actualización de Java no es necesario especificar el tipo de dato, solo colocando 'var' y el valor, 
     Java infiere el tipo de dato*/
