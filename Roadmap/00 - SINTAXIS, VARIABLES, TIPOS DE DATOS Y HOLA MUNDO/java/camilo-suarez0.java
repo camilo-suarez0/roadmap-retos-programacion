@@ -18,7 +18,7 @@ class camilo_suarez0{
   public static void main (String[] args){
     var my_variable = "Camilo";/*Con la actualización de Java no es necesario especificar el tipo de dato, solo colocando 'var' y el valor, 
     Java infiere el tipo de dato*/
-    var my_variable = "Andres";//Nuevo nombre en mi variable
+    my_variable = "Andres";//Nuevo nombre en mi variable
 
     final String MY_CONSTANT = "Suarez";//Mi constante
 
