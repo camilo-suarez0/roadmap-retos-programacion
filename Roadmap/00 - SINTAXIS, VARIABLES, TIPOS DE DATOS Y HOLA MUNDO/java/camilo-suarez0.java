@@ -26,7 +26,7 @@ public class camilo_suarez0{
     byte my_bite = 1;
     short my_short = 10;
     int my_int = 100;
-    long my_long = 1000
+    long my_long = 1000;
     float my_float = 1.5;
     double my_double = 1.5712;
     boolean my_boolean = false;
