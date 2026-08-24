@@ -23,4 +23,4 @@ jobs:
     - name: Compilar y ejecutar archivo
       run: |
         find . -name "camilo-suarez0.java" -exec javac {} \;
-        find . -name "camilo-suarez0.class" -execdir java camilo-suarez0 \;
+        find . -name "camilo_suarez0.class" -execdir java camilo_suarez0 \;
