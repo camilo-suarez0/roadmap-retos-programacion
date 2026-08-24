@@ -23,7 +23,7 @@ class camilo_suarez0{
     final String MY_CONSTANT = "Suarez";//Mi constante
 
     //Forma tradicional para declarar variables
-    byte my_bite = 1;
+    /*byte my_bite = 1;
     short my_short = 10;
     int my_int = 100;
     long my_long = 1000L;
@@ -31,7 +31,7 @@ class camilo_suarez0{
     double my_double = 1.5712;
     boolean my_boolean = false;
     char my_char = 'C';
-    String my_string = "Cadena de texto";
+    String my_string = "Cadena de texto";*/
 
     //Forma moderna para declarar variables con actualización de Java
     var my_byte = 100;
