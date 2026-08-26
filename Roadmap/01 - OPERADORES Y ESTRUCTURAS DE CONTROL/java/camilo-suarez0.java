@@ -15,5 +15,8 @@ class camilo_suarez0{
     System.out.println("Menor que: 10 < 3 es " + (10 < 3));
     System.out.println("Mayor o igual que: 10 >= 3 es " + (10 >= 3));
     System.out.println("Menor o igual que: 10 <= 3 es " + (10 <= 3));
+
+    //Operadores lógicos
+    System.out.println("AND &&: 10 + 3 == 13 and 5 - 1 ==4 es " + (10 + 3 == 13 && 5 - 1 ==4));
   }
 }
