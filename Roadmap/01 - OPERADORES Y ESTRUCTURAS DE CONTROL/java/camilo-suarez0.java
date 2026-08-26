@@ -10,6 +10,10 @@ class camilo_suarez0{
 
     //Operadores de comparación
     System.out.println("Igualdad: 10 == 3 es " + (10 == 3));
-    
+    System.out.println("Desigualdad: 10 != 3 es " + (10 != 3));
+    System.out.println("Mayor que: 10 > 3 es " + (10 > 3));
+    System.out.println("Menor que: 10 < 3 es " + (10 < 3));
+    System.out.println("Mayor o igual que: 10 >= 3 es " + (10 >= 3));
+    System.out.println("Menor o igual que: 10 <= 3 es " + (10 <= 3));
   }
 }
