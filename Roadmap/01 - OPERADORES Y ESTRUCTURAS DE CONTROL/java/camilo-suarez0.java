@@ -6,6 +6,7 @@ class camilo_suarez0{
     System.out.println("Resta: 10 - 3 = " + (10 - 3));
     System.out.println("Multiplicación: 10 * 3 = " + (10 * 3));
     System.out.println("División: 10 / 3 = " + (10 / 3));
+    System.out.println("Modulo: 10 % 3 = " + (10 % 3));
     
   }
 }
