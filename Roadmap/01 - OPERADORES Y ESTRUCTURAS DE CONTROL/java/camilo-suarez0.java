@@ -18,6 +18,7 @@ class camilo_suarez0{
 
     //Operadores lógicos
     System.out.println("AND &&: 10 + 3 == 13 and 5 - 1 == 4 es " + (10 + 3 == 13 && 5 - 1 == 4));
-    System.out.println("OR ||: 10 + 3 == 13 or 5 - 1 == 4 es " + (10 + 3 == 13 || 5 - 1 == 4));
+    System.out.println("OR ||: 10 + 3 == 14 or 5 - 1 == 4 es " + (10 + 3 == 14 || 5 - 1 == 4));
+    System.out.println("NOT !: not 10 + 3 == 14 " + !(10 + 3 == 14));
   }
 }
